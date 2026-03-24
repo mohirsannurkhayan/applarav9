@@ -204,7 +204,7 @@ Route::get('/mahasiswa/daftar/{id}', 'App\Http\Controllers\MahasiswaController@d
 | **NIM** | [NIM Kamu] |
 | **Mata Kuliah** | Pemrograman Framework |
 | **Universitas** | Universitas Semarang |
-| **Tahun** | 2024/2025 |
+| **Semester** | 3 |
 
 ---
 
