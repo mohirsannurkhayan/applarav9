@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-> Tugas Akhir Mata Kuliah Pemrograman Framework — Sistem Informasi Akademik Mahasiswa berbasis Laravel 9 dengan fitur manajemen data Program Studi, Data Pribadi Mahasiswa, dan Data Mahasiswa USM.
+> Praktikum Mata Kuliah Pemrograman Framework — Sistem Informasi Akademik Mahasiswa berbasis Laravel 9 dengan fitur manajemen data Program Studi, Data Pribadi Mahasiswa, dan Data Mahasiswa USM.
 
 ---
 
