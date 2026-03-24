@@ -28,15 +28,23 @@ SIMA adalah aplikasi web berbasis **Laravel Framework 9** untuk mengelola data a
 
 ### Dashboard — `/home`
 Menampilkan grafik bar chart statistik **Jumlah Calon** mahasiswa dan **Daftar Ulang**.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dcd13a2-6f06-4e99-a96a-f84bd94da3cb" />
+
 
 ### Halaman Data Program Studi — `/progdi`
 Tabel data program studi dengan kolom: No, Nama Fakultas, Nama Program Studi, dan Action (Edit / Delete). Dilengkapi tombol **Tambah Progdi** dan pagination.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f8fe73f-ba02-44b7-9926-dca3382f2993" />
+
 
 ### Halaman Data Pribadi Mahasiswa — `/pribadi`
 Tabel data pribadi mahasiswa dengan kolom: No, NIK, Nama Mahasiswa, Tempat/Tgl Lahir, dan Action (Edit / Delete). Dilengkapi tombol **Add Data** dan pagination.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c47a4ba-237f-4282-99dc-7d856a94de53" />
+
 
 ### Halaman Mahasiswa USM — `/mahasiswa`
 Tabel data mahasiswa dengan fitur pencarian keyword. Kolom: No, NIM, Nama Mahasiswa, Fakultas/Progdi, dan status daftar ulang (**Blm DU** / **Sudah DU**).
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f64b4cbf-e831-47e0-87ad-a63e248c027c" />
+
 
 ---
 
@@ -107,7 +115,7 @@ php artisan migrate
 php artisan serve
 ```
 
-Buka browser dan akses: `http://127.0.0.1:8000`
+Buka browser dan akses: `http://127.0.0.1:8000/home`
 
 ---
 
