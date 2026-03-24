@@ -200,8 +200,8 @@ Route::get('/mahasiswa/daftar/{id}', 'App\Http\Controllers\MahasiswaController@d
 
 | | |
 |--|--|
-| **Nama** | [Nama Lengkap Kamu] |
-| **NIM** | [NIM Kamu] |
+| **Nama** | Moh Irsan Nur Khayan |
+| **NIM** | G.211.23.0026 |
 | **Mata Kuliah** | Pemrograman Framework |
 | **Universitas** | Universitas Semarang |
 | **Semester** | 3 |
